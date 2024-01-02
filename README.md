@@ -1,5 +1,5 @@
 <h1>Web-based Games</h1>
-<h3>Just some fun web-based games using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>! &#128513;</h3>
+<h3>Just some fun web-based games using <ins>HTML</ins>, <ins>CSS</ins>, and <ins>JavaScript</ins>! &#128513;</h3>
 <i>#ILoveToLearn</i>
 <br></br>
 <p>To name a few:</p>
